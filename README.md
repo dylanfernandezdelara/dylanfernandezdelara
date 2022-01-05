@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dylanfernandezdelara
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently an FBU Engineering Intern @ Facebook
 - 📫 How to reach me: dylan.fernandezdelara@yale.edu
 
 <!---
