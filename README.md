@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dylanfernandezdelara
-- 📫 How to reach me: dylan.fernandezdelara@yale.edu
+- 👋 Hi, I’m dylan
 
 <!---
 dylanfernandezdelara/dylanfernandezdelara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
