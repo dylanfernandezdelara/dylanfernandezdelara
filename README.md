@@ -9,4 +9,4 @@ I currently work on post-training at Meta and build RL environments for frontier
 ## Projects
 
 - 📋 [learn&](https://github.com/dylanfernandezdelara/humansand-hackathon) - collaborative whiteboard that uses AI to facilitate learning and dynamically pair students
-- 🇺🇸 [trackcongress.org](https://trackcongress.org) - stay up to date on what Congress is doing
+- 🇺🇸 [trackcongress](https://trackcongress.org) - stay up to date on what Congress is doing
