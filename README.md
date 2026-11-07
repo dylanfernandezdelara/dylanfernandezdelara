@@ -1,8 +1,9 @@
 # Dylan Fernandez de Lara
 
-I am an *optimist*.
+I am an *optimist*. 
 
 I currently work at Instagram.
+
 ---
 
 ## Projects
