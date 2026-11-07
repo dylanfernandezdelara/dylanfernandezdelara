@@ -2,8 +2,7 @@
 
 I am an *optimist*.
 
-I currently work on post-training at Meta and build RL environments for frontier coding agents.
-
+I currently work at Instagram.
 ---
 
 ## Projects
